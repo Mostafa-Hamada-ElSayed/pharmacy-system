@@ -1,0 +1,2 @@
+# Pharmacy
+A simple Windows Forms application written in C# for pharmacy management. The application allows users to add drug information, including an index, price, drug name, and quantity. Users can then display drugs with low stock (less than 10 items) and drugs with high prices (over 1000). The code is organized with a struct to manage drug information efficiently. The graphical user interface provides functionality for adding drugs and viewing items based on specific criteria.
